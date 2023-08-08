@@ -2,5 +2,6 @@
 
 a = "Momnsen"
 b = "MEREUS"
+c = 19
 
-print(a + " " + b)
+print("Mwen rele", a + " " + b, "mwen gen", c, "lane")
